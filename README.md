@@ -56,18 +56,4 @@ Data paths should be configured in each script (`DATA_DIR`, `OUTPUT_DIR`) accord
 
 ---
 
-## 📌 Citation
 
-If you use this code, please cite the accompanying paper (preprint link will be updated):
-
-> Zhou et al. (2025). *Directional Role Reconfiguration and Dual-Weighted Risk Signals in Global EV Supply Chains (2010–2024)*. **Nature Communications**, under review.
-
----
-
-## 📩 Contact
-
-For technical questions or collaboration proposals:
-
-**周锡饮**  
-School of Economics and Management, Tsinghua University  
-✉️ raism@tsinghua.edu.cn
